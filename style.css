@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+input,label,button,p {
+  display: block;
+}
+
+h1, label,p {
+  text-align: center; 
+}
+
+input, button {
+  margin: 1rem auto; 
+}
